@@ -24,5 +24,6 @@ module.exports = {
     'no-restricted-syntax': 'off',
     'no-return-assign': 'off',
     'prefer-arrow-callback': 'off',
+    "@typescript-eslint/no-unused-vars": "error",
   },
 };
